@@ -102,7 +102,7 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = true;
+var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
@@ -113,10 +113,10 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "force.ogg", name: "Star Wars the force theme"},
-	{ogg: "temple.ogg", name: "Star Wars temple march"},
-	{youtube: "https://www.youtube.com/watch?v=aFOo86PDDuE&t=71s", name: "Jedi Temple March"},
-	{youtube: "https://www.youtube.com/watch?v=HcZ9kQ1h-ZY&t=60s", name: "The Force"},
+	{ogg: "", name: ""},
+	{ogg: "", name: ""},
+	{youtube: "", name: ""},
+	{youtube: "", name: ""},
 ];
 
 // Random music order?
