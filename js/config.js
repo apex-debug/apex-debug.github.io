@@ -27,7 +27,7 @@ var l_serverName = "Apex Networks Clone Wars Roleplay";
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 // Default available videos:
 // "aurora.webm"
@@ -72,9 +72,11 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"recruit.jpg",
+	"212.jpg",
+	"parade.jpg",
+	"fire.jpg",
+	"army.jpg",
 ];
 
 // (Image-background only)
