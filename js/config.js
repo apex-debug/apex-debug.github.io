@@ -27,7 +27,7 @@ var l_serverName = "Apex Networks Clone Wars Roleplay";
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 // Default available videos:
 // "aurora.webm"
@@ -76,7 +76,7 @@ var l_bgImages = [
 	"212.jpg",
 	"parade.jpg",
 	"fire.jpg",
-	"army.jpg"
+	"army.jpg",
 ];
 
 // (Image-background only)
@@ -87,7 +87,7 @@ var l_bgImagesRandom = true;
 // (Image-background only)
 // Delay between background images changes
 // in milliseconds
-var l_bgImageDuration = 100;
+var l_bgImageDuration = 5000;
 
 // (Image-background only)
 // Image background fade velocity
