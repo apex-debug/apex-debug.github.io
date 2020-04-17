@@ -114,9 +114,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "brothers.ogg", name: "brothers"},
+	{ogg: "last.ogg", name: "Star Wars"},
 	{ogg: "", name: ""},
-	{youtube: "https://www.youtube.com/watch?v=7UtVTqzdyKc", name: "Kodaline - Brother (Lyric Video)"},
+	{youtube: "https://www.youtube.com/watch?v=eCAclwYxfCM", name: "The Last Shredi"},
 	{youtube: "", name: ""},
 ];
 
