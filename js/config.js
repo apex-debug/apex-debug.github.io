@@ -114,7 +114,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "brother", name: "Brother"},
+	{ogg: "use", name: "use"},
 	{ogg: "", name: ""},
 	{youtube: "", name: ""},
 	{youtube: "", name: ""},
