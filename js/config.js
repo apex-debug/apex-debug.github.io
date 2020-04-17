@@ -116,7 +116,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "brothers.ogg", name: "brothers"},
 	{ogg: "", name: ""},
-	{youtube: "", name: ""},
+	{youtube: "https://www.youtube.com/watch?v=7UtVTqzdyKc", name: "Kodaline - Brother"},
 	{youtube: "", name: ""},
 ];
 
