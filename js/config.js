@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Apex Networks Imperial Roleplay | Serious";
+var l_serverName = "Apex Networks Clone Wars Roleplay";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -55,7 +55,7 @@ var l_bgVideo = true;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "anakin.webm";
+var l_background = "brother.webm";
 
 // (Image-background only)
 // Enable map-based background image?
@@ -103,18 +103,18 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = false;
+var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = false;
+var l_musicDisplay = true;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "", name: ""},
+	{ogg: "brother.ogg", name: "Brother"},
 	{ogg: "", name: ""},
 	{youtube: "", name: ""},
 	{youtube: "", name: ""},
@@ -126,7 +126,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 0;
+var l_musicVolume = 25;
 
 // Enable custom messages?
 // 'true' or 'false'
