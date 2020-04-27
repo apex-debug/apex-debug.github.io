@@ -27,7 +27,7 @@ var l_serverName = "Apex Networks Clone Wars Roleplay";
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 // Default available videos:
 // "aurora.webm"
@@ -73,9 +73,10 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"212.jpg",
-	"parade.jpg",
+	"recuit.jpg",
 	"fire.jpg",
 	"army.jpg",
+	"parade.jpg",
 ];
 
 // (Image-background only)
@@ -103,7 +104,7 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = true;
+var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
