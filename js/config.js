@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Apex Networks Clone Wars Roleplay";
+var l_serverName = "BioHazard's SCP Roleplay";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -72,11 +72,9 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"212.jpg",
-	"recuit.jpg",
-	"fire.jpg",
-	"army.jpg",
-	"parade.jpg",
+	"scp.jpg",
+	"scp1.jpg",
+	"scp2.jpg",
 ];
 
 // (Image-background only)
