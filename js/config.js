@@ -133,9 +133,9 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
-	"May the force be with you!",
-	"Did Obi wan Kenobi really have the high ground?",
+	"Don't Blink.",
+	"Be careful for Sir Fish ecounters with him turn people crazy.",
+	"Welcome to your new home in the SCP foundation, enjoy your stay.",
 ];
 
 // Random message order?
