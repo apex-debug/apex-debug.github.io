@@ -72,9 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"scp.jpg",
-	"scp1.jpg",
-	"scp2.jpg",
+	"use.jpg",
 ];
 
 // (Image-background only)
@@ -98,7 +96,7 @@ var l_bgOverlay = true;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
-var l_bgDarkening = 50;
+var l_bgDarkening = 0;
 
 // Play music during the loading screen?
 // 'true' or 'false'
