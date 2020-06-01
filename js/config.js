@@ -72,7 +72,7 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"use.jpg",
+	"better.jpg",
 ];
 
 // (Image-background only)
@@ -123,7 +123,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 10;
+var l_musicVolume = 5;
 
 // Enable custom messages?
 // 'true' or 'false'
