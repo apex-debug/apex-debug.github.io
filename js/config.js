@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "BioHazard's SCP Roleplay";
+var l_serverName = "BioHazard Severs CWRP";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -100,7 +100,7 @@ var l_bgDarkening = 0;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = false;
+var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
@@ -111,9 +111,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "last.ogg", name: "Star Wars"},
+	{ogg: "clone.ogg", name: "The Clone Wars"},
 	{ogg: "", name: ""},
-	{youtube: "https://www.youtube.com/watch?v=eCAclwYxfCM", name: "The Last Shredi"},
+	{youtube: "https://www.youtube.com/watch?v=efmQoX-AoZI", name: "The Clone Wars"},
 	{youtube: "", name: ""},
 ];
 
@@ -123,7 +123,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 8;
+var l_musicVolume = 10;
 
 // Enable custom messages?
 // 'true' or 'false'
@@ -131,9 +131,9 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Don't Blink.",
-	"Be careful for Sir Fish ecounters with him turn people crazy.",
-	"Welcome to your new home in the SCP foundation, enjoy your stay.",
+	"Move out squad!",
+	"Your not shinies anymore.",
+	"The Grand Army of the Republic has our back and we have it's.",
 ];
 
 // Random message order?
