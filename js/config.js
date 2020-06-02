@@ -131,7 +131,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Move out squad!",
+	"While your waiting take the time to join our discord! - https://discord.gg/Ab7Ttxj",
 	"Your not shinies anymore.",
 	"The Grand Army of the Republic has our back and we have it's.",
 ];
