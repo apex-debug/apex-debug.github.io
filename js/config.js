@@ -27,7 +27,7 @@ var l_serverName = "BioHazard Servers CWRP";
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 // Default available videos:
 // "aurora.webm"
@@ -123,7 +123,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 2;
+var l_musicVolume = 5;
 
 // Enable custom messages?
 // 'true' or 'false'
