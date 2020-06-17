@@ -27,7 +27,7 @@ var l_serverName = "BioHazard Servers CWRP";
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 // Default available videos:
 // "aurora.webm"
@@ -72,18 +72,19 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"bio.jpg",
+	"scp.jpg",
+	"doctor.jfif",
 ];
 
 // (Image-background only)
 // Random background images order?
 // 'true' or 'false'
-var l_bgImagesRandom = false;
+var l_bgImagesRandom = true;
 
 // (Image-background only)
 // Delay between background images changes
 // in milliseconds
-var l_bgImageDuration = 2500;
+var l_bgImageDuration = 10000;
 
 // (Image-background only)
 // Image background fade velocity
@@ -100,7 +101,7 @@ var l_bgDarkening = 0;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = true;
+var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
@@ -132,8 +133,8 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"While your waiting take the time to join our discord! - https://discord.gg/Ab7Ttxj",
-	"Your not shinies anymore.",
-	"The Grand Army of the Republic has our back and we have it's.",
+	"We take pride in our experiments and so should you.",
+	"Welcome to the SCP Foundation.",
 ];
 
 // Random message order?
