@@ -73,7 +73,7 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"scp.jpg",
-	"049.jpg",
+	"good.jpg",
 	"173.png",
 	"096.png",
 ];
