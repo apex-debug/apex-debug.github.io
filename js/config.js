@@ -73,7 +73,9 @@ var l_bgImageMapBased = false;
 // (You can also use external URL)
 var l_bgImages = [
 	"scp.jpg",
-	"doctor.jfif",
+	"049.jpg",
+	"173.png",
+	"096.png",
 ];
 
 // (Image-background only)
@@ -84,7 +86,7 @@ var l_bgImagesRandom = true;
 // (Image-background only)
 // Delay between background images changes
 // in milliseconds
-var l_bgImageDuration = 10000;
+var l_bgImageDuration = 5000;
 
 // (Image-background only)
 // Image background fade velocity
