@@ -107,7 +107,7 @@ var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
@@ -137,7 +137,7 @@ var l_messages = [
 	"While your waiting take the time to join our discord! - https://discord.gg/sxvaf74Xxv",
 	"For the Republic!",
 	"Congratulations you’re not shines anymore - 501st Captain Rex.",
-        ""Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering - Jedi Master Yoda.",
+    "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering - Jedi Master Yoda.",
 ];
 
 // Random message order?
