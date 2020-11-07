@@ -76,6 +76,7 @@ var l_bgImages = [
 	"army.jpg",
 	"fire.png",
 	"parade.png",
+	"training.jpg",
 ];
 
 // (Image-background only)
