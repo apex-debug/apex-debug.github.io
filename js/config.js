@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "BioHazard's SCP-RP";
+var l_serverName = "Apex Network Clone Wars Roleplay";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -72,10 +72,10 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"scp.jpg",
-	"good.jpg",
-	"173.png",
-	"096.png",
+	"recruit.jpg",
+	"army.jpg",
+	"fire.png",
+	"parade.png",
 ];
 
 // (Image-background only)
@@ -134,9 +134,10 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"While your waiting take the time to join our discord! - https://discord.gg/Ab7Ttxj",
-	"We take pride in our experiments and so should you.",
-	"Welcome to the SCP Foundation.",
+	"While your waiting take the time to join our discord! - https://discord.gg/sxvaf74Xxv",
+	"For the Republic!",
+	"Congratulations you’re not shines anymore - 501st Captain Rex.",
+        ""Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering - Jedi Master Yoda.",
 ];
 
 // Random message order?
@@ -145,11 +146,11 @@ var l_messagesRandom = true;
 
 // Delay between message changes
 // in milliseconds
-var l_messagesDelay = 5000;
+var l_messagesDelay = 10000;
 
 // Messages fade time
 // in milliseconds
-var l_messagesFade = 1000;
+var l_messagesFade = 4000;
 
 // Show errors inside Garry's Mod?
 // Can be useful for finding errors
